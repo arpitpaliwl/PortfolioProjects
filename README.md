@@ -8,9 +8,10 @@ File 'Covid 19 Data Exploration.sql' contains the sql queries through which i an
 
 # Table Data Sets
 
-The table which i used can be downloaded from here:
+The tables which i used, Data can be downloaded from here:
 
 Covid Deaths: [https://github.com/arpitpaliwl/PortfolioProjects/blob/main/CovidDeaths.xlsx]
+
 Covid Vaccinations: [https://github.com/arpitpaliwl/PortfolioProjects/blob/main/CovidVaccinations.xlsx]
 
 
