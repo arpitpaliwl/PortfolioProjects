@@ -1,4 +1,4 @@
-#Covid 19 Data Exploration 
+#Covid 19 Data Exploration-Portfolio Project 1
 
 
 --Querying the data from the two tables which we are going to use
