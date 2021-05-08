@@ -16,7 +16,7 @@ Covid Vaccinations: [https://github.com/arpitpaliwl/PortfolioProjects/blob/main/
 
 
 ## Appendix
-You can find COVID 19 full datset here: https://ourworldindata.org/covid-deaths
+You can find full COVID 19 dataset here: https://ourworldindata.org/covid-deaths
 
 ## Authors
 
